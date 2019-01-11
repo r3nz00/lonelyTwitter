@@ -30,4 +30,8 @@ public abstract class Mood {
     public void set_date_of_mood(Date set_date) {
         this.date_of_mood = set_date;
     }
+
+    public String getMood() {
+        return "None";
+    }
 }
