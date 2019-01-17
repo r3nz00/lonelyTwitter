@@ -34,4 +34,5 @@ public abstract class Mood {
     public String getMood() {
         return "None";
     }
+
 }
